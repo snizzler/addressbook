@@ -15,7 +15,7 @@ public class Addressbook {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int moin = 2;
+        int moin = 0;
         		
         System.out.println("Hello World");
     }
