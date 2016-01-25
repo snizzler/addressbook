@@ -7,7 +7,7 @@ package addressbook;
 
 /**
  *
- * @author Thomas
+ * @author Thomas/Norman
  */
 public class Addressbook {
 	
